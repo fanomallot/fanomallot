@@ -16,12 +16,12 @@
 </p>
 <p>
     <!-- git stat -->
-  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=fanomallot&show_icons=true&theme=algolia" alt="fanomallot" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=fanomallot&show_icons=true&theme=algolia" alt="fanomallot" />
     <!-- most laguages -->
-  <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanomallot&theme=algolia&layout=compact&langs_count=10" alt="fanomallot" />
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanomallot&theme=algolia&layout=compact&langs_count=10" alt="fanomallot" />
 </p>
 
-<p align="left"><img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=fanomallot&theme=algolia" alt="fanomallot" /></p>
+<p align="left"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fanomallot&theme=algolia" alt="fanomallot" /></p>
 <hr />
 <h3 align="center">My trophy</h3>
 <!-- git trophy -->

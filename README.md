@@ -11,13 +11,17 @@
 <h3 align="center">My Stats</h3>
 <!-- My github Statistique -->
   <!-- profile view -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=fanomallot&label=Profile%20views&color=0e75b6&style=flat" alt="fanomallot" /></p>
-  <!-- most laguages -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanomallot&theme=algolia&layout=compact&langs_count=10" alt="fanomallot" /></p>
-  <!-- git stat -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fanomallot&show_icons=true&theme=algolia" alt="fanomallot" /></p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=fanomallot&label=Profile%20views&color=0e75b6&style=flat" alt="fanomallot" />
+</p>
+<p>
+    <!-- git stat -->
+  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=fanomallot&show_icons=true&theme=algolia" alt="fanomallot" />
+    <!-- most laguages -->
+  <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanomallot&theme=algolia&layout=compact&langs_count=10" alt="fanomallot" />
+</p>
 
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fanomallot&theme=algolia" alt="fanomallot" /></p>
+<p align="left"><img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=fanomallot&theme=algolia" alt="fanomallot" /></p>
 <hr />
 <h3 align="center">My trophy</h3>
 <!-- git trophy -->

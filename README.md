@@ -13,7 +13,7 @@
   <!-- profile view -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fanomallot&label=Profile%20views&color=0e75b6&style=flat" alt="fanomallot" /></p>
   <!-- most laguages -->
-<p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanomallot&theme=algolia&layout=compact&langs_count=10" alt="fanomallot" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanomallot&theme=algolia&layout=compact&langs_count=10" alt="fanomallot" /></p>
   <!-- git stat -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fanomallot&show_icons=true&theme=algolia" alt="fanomallot" /></p>
 

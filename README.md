@@ -2,11 +2,11 @@
 
 <p align="center"> <img src="https://github.com/fanomallot/fanomallot/blob/main/image.gif" alt="fanomallot" /></p>
 <h3 align="center">I'm a web developer from Madagascar</h3>
-
+<!--
 - 🌱 I’m currently learning Vue3
 - 🤔 I’m looking for help with Vue3
 - 💬 Ask me about Ruby, Ruby on rails, Vue2
-
+-->
 <hr />
 <h3 align="center">My Stats</h3>
 <!-- My github Statistique -->
@@ -135,6 +135,7 @@
     <img height="28" src="https://img.shields.io/twitter/follow/fanomallot_t?logo=twitter&style=for-the-badge" alt="fanomallot_t"/>
   </a>
 </p>
+<hr />
 <h3 align="center">Where I Learned, 🎓 My Education</h3>
 <p align="center">
   <img alt='Codewars' src='https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey' />
@@ -144,3 +145,16 @@
   <img alt='Udemy' src='https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white' />
   <img alt='Wikipedia' src='https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white' />
 </p>
+
+<!--
+# documentation
+  -- markdown badges doc
+  https://github.com/Ileriayo/markdown-badges#-design
+
+  -- Align image
+  https://gist.github.com/DavidWells/7d2e0e1bc78f4ac59a123ddf8b74932d
+
+  -- Display stat
+  https://github.com/anuraghazra/github-readme-stats
+-->
+

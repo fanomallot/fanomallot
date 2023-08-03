@@ -16,7 +16,7 @@
 </p>
 <p>
     <!-- git stat -->
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=fanomallot&show_icons=true&theme=algolia&include_all_prs=true&include_all_commits=true&count_private=true" alt="fanomallot" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=fanomallot&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="fanomallot" />
     <!-- most laguages -->
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanomallot&theme=algolia&layout=compact&langs_count=10" alt="fanomallot" />
 </p>

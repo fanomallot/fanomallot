@@ -36,6 +36,7 @@
         <img alt='Rails' src='https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white' />
         <img alt='Ruby' src='https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white' />
         <img alt='Vue.js' src='https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D' />
+        <img alt='Vite' src='https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white' />
       </p>
       <p align='center'>
         <img alt='CSS3' src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white' />
@@ -69,6 +70,7 @@
           <td align="center">
             <h3>Testing</h3>
             <p align='center'>
+              <img alt='Vitest' src='https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white' />
               <img alt='Jest' src='https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white' />
               <img alt='Postgres' src='https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white' />        
             </p>

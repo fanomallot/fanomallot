@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fano Andriamahefa</h1>
 
 <p align="center"> <img src="https://github.com/fanomallot/fanomallot/blob/main/image.gif" alt="fanomallot" /></p>
-<h3 align="center">I'm a web developer from Madagascar</h3>
+<h3 align="center">I'm a software developer from Madagascar</h3>
 <!--
 - 🌱 I’m currently learning Vue3
 - 🤔 I’m looking for help with Vue3
